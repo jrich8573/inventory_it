@@ -2,3 +2,5 @@
 *.o
 *.cfg
 bin
+storage
+testinventory
